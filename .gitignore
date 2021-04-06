@@ -1,0 +1,14 @@
+.idea/
+/node_modules/
+
+.DS_Store
+
+# Project exclude paths
+/src/api/Emitter.js
+/src/api/Emitter.js.map
+/src/api/Formatter.js
+/src/api/Formatter.js.map
+/src/api/main.js
+/src/api/main.js.map
+/src/main.js
+/src/main.js.map
